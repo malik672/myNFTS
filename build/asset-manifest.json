@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/openseas/static/css/main.48cd27a8.chunk.css",
+    "main.js": "/openseas/static/js/main.38bf033b.chunk.js",
+    "main.js.map": "/openseas/static/js/main.38bf033b.chunk.js.map",
+    "runtime-main.js": "/openseas/static/js/runtime-main.88d20542.js",
+    "runtime-main.js.map": "/openseas/static/js/runtime-main.88d20542.js.map",
+    "static/js/2.b8f0f7ae.chunk.js": "/openseas/static/js/2.b8f0f7ae.chunk.js",
+    "static/js/2.b8f0f7ae.chunk.js.map": "/openseas/static/js/2.b8f0f7ae.chunk.js.map",
+    "static/js/3.8f3e29bf.chunk.js": "/openseas/static/js/3.8f3e29bf.chunk.js",
+    "static/js/3.8f3e29bf.chunk.js.map": "/openseas/static/js/3.8f3e29bf.chunk.js.map",
+    "index.html": "/openseas/index.html",
+    "static/css/main.48cd27a8.chunk.css.map": "/openseas/static/css/main.48cd27a8.chunk.css.map",
+    "static/js/2.b8f0f7ae.chunk.js.LICENSE.txt": "/openseas/static/js/2.b8f0f7ae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88d20542.js",
+    "static/js/2.b8f0f7ae.chunk.js",
+    "static/css/main.48cd27a8.chunk.css",
+    "static/js/main.38bf033b.chunk.js"
+  ]
+}
